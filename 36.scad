@@ -3,7 +3,7 @@ use <BOSL/involute_gears.scad>
 include <constants.scad>
 
 fokszam=36;
-karikak=[0,3,6,9,12,16,20,25,31,3,15];
+karikak=[0,3,6,9,12,16,20,25,31,3,14];
 
 radius = root_radius(mm_per_tooth=tooth_size, number_of_teeth=fokszam);
 
