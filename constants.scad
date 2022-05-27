@@ -1,5 +1,5 @@
 $fn=96;
-hole_diameter=2.5;
+hole_diameter=2.7;
 hole_distance=2.5;
 small_hole_diameter=1.5;
 small_hole_distance=2;
